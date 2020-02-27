@@ -12,10 +12,10 @@
   "author": "cyan <1227233860@qq.com>",
   "license": "MIT",
   "typings": "./index.d.ts",
-  "homepage": "https://github.com/1227233860/cyan-zone#readme",
+  "homepage": "https://github.com/1227233860/cyan-zone-util#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1227233860/cyan-zone.git"
+    "url": "git+https://github.com/1227233860/cyan-zone-util.git"
   },
   "dependencies": {
     "@angular/core": "~9.0.2"
