@@ -1,0 +1,23 @@
+{
+  "name": "@cyan-zone/util",
+  "version": "1.0.2",
+  "description": "",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyan <1227233860@qq.com>",
+  "license": "MIT",
+  "typings": "./index.d.ts",
+  "homepage": "https://github.com/1227233860/cyan-zone#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1227233860/cyan-zone.git"
+  },
+  "dependencies": {
+    "@angular/core": "~9.0.2"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "@cyan-zone/array",
+  "main": "./array.js",
+  "typings": "./index.d.ts"
+}
