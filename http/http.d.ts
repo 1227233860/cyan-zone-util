@@ -17,5 +17,5 @@ export declare class __Http {
    * @param object 待转换的实体对象
    * @returns 转换后的HttpParams，若转换失败则返回空的HttpParams
    */
-  entity2HttpParam(params: any): HttpParams;
+  entity2HttpParams(params: any): HttpParams;
 }

@@ -3,14 +3,6 @@
  * (c) 2020 Cyan See https://github.com/1227233860
  * License: MIT
  */
-
-/**
- * @license
- * Copyright Cyan See All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://xyof.cn/license
- */
 const __Array = /** @class */(function () {
   function __Array(document) {
     this._document = document;
