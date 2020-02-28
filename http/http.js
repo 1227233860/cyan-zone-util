@@ -15,6 +15,7 @@ const __Http = /** @class */ (function () {
   function __Http(document) {
     this._document = document;
   }
+  const __http = new __Http();
   /**
    * 将实体对象转换成HttpParams
    * @param object 待转换的实体对象
@@ -22,7 +23,7 @@ const __Http = /** @class */ (function () {
    */
   __Http.prototype.entity2HttpParams = function (object) {
     let param = new HttpParams();
-    if (!object || JSON.stringify(object).includes('')) {
+    if (!object) {
       return param;
     }
     try {
@@ -39,6 +40,6 @@ const __Http = /** @class */ (function () {
     }
     return param;
   }
-  return __Http;
+  return __http;
 }());
 export { __Http };

@@ -1,5 +1,5 @@
 {
-  "name": "@cyan-zone/http",
+  "name": "@cyan-zone/util/http",
   "main": "./http.js",
   "typings": "./index.d.ts"
 }

@@ -17,5 +17,5 @@ export declare class __Array {
    * console.log(arrUtil.isExist(source, target)) // false
    * ```
    */
-    isExist(source: any[], target: any): boolean;
+  static isExist(source: any[], target: any): boolean;
 }

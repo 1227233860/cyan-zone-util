@@ -7,6 +7,7 @@ const __Array = /** @class */(function () {
   function __Array(document) {
     this._document = document;
   }
+  const __array = new __Array();
   /**
    * 判断数组中是否包含某个目标
    * @param source 被检测的数据源
@@ -31,6 +32,6 @@ const __Array = /** @class */(function () {
     }
     return false;
   }
-  return __Array;
-}())
+  return __array;
+}());
 export { __Array };
