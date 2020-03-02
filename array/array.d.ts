@@ -1,6 +1,6 @@
 /**
- * @license CyanZone v1.0.2
- * (c) 2020 Cyan See https://github.com/1227233860
+ * @license CyanZone
+ * (c) 2020 Cyan See https://github.com/1227233860/cyan-zone-util
  * License: MIT
  */
 export declare class __Array {
